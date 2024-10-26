@@ -16,3 +16,6 @@
 [submodule "week00-example-pqb0"]
 	path = week00-example-pqb0
 	url = https://github.com/Python-Homeworks-CUB/week00-example-pqb0.git
+[submodule "week-08-pqb0"]
+	path = week-08-pqb0
+	url = git@github.com:Python-Homeworks-CUB/week-08-pqb0.git
