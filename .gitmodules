@@ -19,3 +19,15 @@
 [submodule "week-08-pqb0"]
 	path = week-08-pqb0
 	url = git@github.com:Python-Homeworks-CUB/week-08-pqb0.git
+[submodule "week-07-pqb0"]
+	path = week-07-pqb0
+	url = git@github.com:Python-Homeworks-CUB/week-07-pqb0.git
+[submodule "week-09-pqb0"]
+	path = week-09-pqb0
+	url = git@github.com:Python-Homeworks-CUB/week-09-pqb0.git
+[submodule "week-10-pqb0"]
+	path = week-10-pqb0
+	url = git@github.com:Python-Homeworks-CUB/week-10-pqb0.git
+[submodule "week-12-pqb0"]
+	path = week-12-pqb0
+	url = git@github.com:Python-Homeworks-CUB/week-12-pqb0.git
